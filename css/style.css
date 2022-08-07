@@ -300,6 +300,7 @@ ul {
 .footer {
     height: 300px;
     display: flex;
+    align-items: center;
 
     background: #070A1B;
 }
