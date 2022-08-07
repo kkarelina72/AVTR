@@ -299,6 +299,7 @@ ul {
 
 .footer {
     height: 300px;
+    display: flex;
 
     background: #070A1B;
 }
